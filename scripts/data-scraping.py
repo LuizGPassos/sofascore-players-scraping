@@ -24,12 +24,7 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), opti
 driver.get("https://www.sofascore.com/team/football/corinthians/1957")
 time.sleep(5)
 
-print(f"{datetime.now()}: Saving HTML file...")
-
 html_data = BeautifulSoup(driver.page_source, 'html.parser')
-
-with open('./html-files/corinthians_soup.html', 'w', encoding='utf-8') as f:
-    f.write(html_data.prettify())
 
 driver.quit()
 
