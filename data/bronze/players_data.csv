@@ -1,34 +1,32 @@
-,url,number,name,img_url,ingestion_date
-0,/player/memphis-depay/138833,10,Memphis Depay,https://img.sofascore.com/api/v1/player/138833/image,2025-04-06 15:19:47.183083
-1,/player/yuri-alberto/905463,9,Yuri Alberto,https://img.sofascore.com/api/v1/player/905463/image,2025-04-06 15:19:47.183834
-2,/player/angel-romero/1197041,11,Ángel Romero,https://img.sofascore.com/api/v1/player/1197041/image,2025-04-06 15:19:47.184361
-3,/player/talles-magno/985860,43,Talles Magno,https://img.sofascore.com/api/v1/player/985860/image,2025-04-06 15:19:47.184639
-4,/player/giovane/1170773,17,Giovane,https://img.sofascore.com/api/v1/player/1170773/image,2025-04-06 15:19:47.184976
-5,/player/hector-hernandez/352448,22,Héctor Hernández,https://img.sofascore.com/api/v1/player/352448/image,2025-04-06 15:19:47.185895
-6,/player/kayke-ferrari/1411152,31,Kayke Ferrari,https://img.sofascore.com/api/v1/player/1411152/image,2025-04-06 15:19:47.186263
-7,/player/rodrigo-garro/994454,8,Rodrigo Garro,https://img.sofascore.com/api/v1/player/994454/image,2025-04-06 15:19:47.186621
-8,/player/andre-carrillo/115182,19,André Carrillo,https://img.sofascore.com/api/v1/player/115182/image,2025-04-06 15:19:47.186983
-9,/player/igor-coronado/152098,77,Igor Coronado,https://img.sofascore.com/api/v1/player/152098/image,2025-04-06 15:19:47.187356
-10,/player/breno-bidon/1199261,27,Breno Bidon,https://img.sofascore.com/api/v1/player/1199261/image,2025-04-06 15:19:47.187777
-11,/player/jose-martinez/979325,70,José Martínez,https://img.sofascore.com/api/v1/player/979325/image,2025-04-06 15:19:47.188149
-12,/player/raniele/866392,14,Raniele,https://img.sofascore.com/api/v1/player/866392/image,2025-04-06 15:19:47.188490
-13,/player/maycon/831778,7,Maycon,https://img.sofascore.com/api/v1/player/831778/image,2025-04-06 15:19:47.188793
-14,/player/alex-santana/358166,80,Alex Santana,https://img.sofascore.com/api/v1/player/358166/image,2025-04-06 15:19:47.189108
-15,/player/charles/845178,35,Charles,https://img.sofascore.com/api/v1/player/845178/image,2025-04-06 15:19:47.189382
-16,/player/ryan-gustavo/1170779,37,Ryan Gustavo,https://img.sofascore.com/api/v1/player/1170779/image,2025-04-06 15:19:47.189690
-17,/player/felix-torres/881848,3,Félix Torres,https://img.sofascore.com/api/v1/player/881848/image,2025-04-06 15:19:47.190017
-18,/player/matheuzinho/931540,2,Matheuzinho,https://img.sofascore.com/api/v1/player/931540/image,2025-04-06 15:19:47.190323
-19,/player/andre-ramalho/148155,5,André Ramalho,https://img.sofascore.com/api/v1/player/148155/image,2025-04-06 15:19:47.190599
-20,/player/matheus-bidu/981703,21,Matheus Bidu,https://img.sofascore.com/api/v1/player/981703/image,2025-04-06 15:19:47.190915
-21,/player/gustavo-henrique/243181,13,Gustavo Henrique,https://img.sofascore.com/api/v1/player/243181/image,2025-04-06 15:19:47.191230
-22,/player/caca/929200,25,Cacá,https://img.sofascore.com/api/v1/player/929200/image,2025-04-06 15:19:47.191508
-23,/player/diego-palacios/925615,6,Diego Palacios,https://img.sofascore.com/api/v1/player/925615/image,2025-04-06 15:19:47.191782
-24,/player/hugo/1017827,46,Hugo,https://img.sofascore.com/api/v1/player/1017827/image,2025-04-06 15:19:47.192088
-25,/player/fabrizio-angileri/311462,26,Fabrizio Angileri,https://img.sofascore.com/api/v1/player/311462/image,2025-04-06 15:19:47.192411
-26,/player/leo-mana/1170769,33,Léo Mana,https://img.sofascore.com/api/v1/player/1170769/image,2025-04-06 15:19:47.192701
-27,/player/joao-pedro/1411150,47,João Pedro Tchoca,https://img.sofascore.com/api/v1/player/1411150/image,2025-04-06 15:19:47.193012
-28,/player/renato-santos/1411159,41,Renato Santos,https://img.sofascore.com/api/v1/player/1411159/image,2025-04-06 15:19:47.193291
-29,/player/hugo-souza/950454,1,Hugo Souza,https://img.sofascore.com/api/v1/player/950454/image,2025-04-06 15:19:47.193568
-30,/player/matheus-donelli/1002609,32,Matheus Donelli,https://img.sofascore.com/api/v1/player/1002609/image,2025-04-06 15:19:47.193857
-31,/player/felipe-longo/1485272,40,Felipe Longo,https://img.sofascore.com/api/v1/player/1485272/image,2025-04-06 15:19:47.194191
-32,/player/kaue/1382923,51,Kauê,https://img.sofascore.com/api/v1/player/1382923/image,2025-04-06 15:19:47.194482
+url,number,name,img_url,rating,price,nationality,birthday,height,preferred_foot,att,tec,tac,def,cre,ingestion_date
+/player/memphis-depay/138833,10,Memphis Depay,https://img.sofascore.com/api/v1/player/138833/image,7.20,10.3M €,NED,13 Feb 1994,176 cm,Right,74.0,61.0,53.0,28.0,63.0,2025-04-06 17:56:31.025932
+/player/yuri-alberto/905463,9,Yuri Alberto,https://img.sofascore.com/api/v1/player/905463/image,7.13,16.5M €,BRA,18 Mar 2001,183 cm,Right,70.0,53.0,52.0,31.0,47.0,2025-04-06 17:56:44.152000
+/player/angel-romero/1197041,11,Ángel Romero,https://img.sofascore.com/api/v1/player/1197041/image,6.90,1.1M €,PAR,4 Jul 1992,177 cm,Right,62.0,52.0,46.0,34.0,52.0,2025-04-06 17:56:56.351310
+/player/talles-magno/985860,43,Talles Magno,https://img.sofascore.com/api/v1/player/985860/image,6.92,8.5M €,BRA,26 Jun 2002,186 cm,Right,65.0,55.0,48.0,34.0,54.0,2025-04-06 17:57:08.004034
+/player/giovane/1170773,17,Giovane,https://img.sofascore.com/api/v1/player/1170773/image,6.72,3.7M €,BRA,24 Nov 2003,184 cm,Left,,,,,,2025-04-06 17:57:19.526897
+/player/hector-hernandez/352448,22,Héctor Hernández,https://img.sofascore.com/api/v1/player/352448/image,6.63,1.3M €,ESP,14 Sept 1995,180 cm,Right,64.0,50.0,44.0,23.0,37.0,2025-04-06 17:57:29.460848
+/player/kayke-ferrari/1411152,31,Kayke Ferrari,https://img.sofascore.com/api/v1/player/1411152/image,6.50,225K €,BRA,28 Apr 2004,179 cm,Right,,,,,,2025-04-06 17:57:41.661432
+/player/rodrigo-garro/994454,8,Rodrigo Garro,https://img.sofascore.com/api/v1/player/994454/image,7.46,14.5M €,ARG,4 Jan 1998,174 cm,Left,67.0,62.0,46.0,30.0,76.0,2025-04-06 17:57:50.617408
+/player/andre-carrillo/115182,19,André Carrillo,https://img.sofascore.com/api/v1/player/115182/image,6.92,1.1M €,PER,14 Jun 1991,180 cm,Right,52.0,56.0,44.0,41.0,54.0,2025-04-06 17:58:01.947724
+/player/igor-coronado/152098,77,Igor Coronado,https://img.sofascore.com/api/v1/player/152098/image,6.98,3.2M €,BRA,18 Aug 1992,170 cm,Right,61.0,60.0,46.0,35.0,67.0,2025-04-06 17:58:12.859769
+/player/breno-bidon/1199261,27,Breno Bidon,https://img.sofascore.com/api/v1/player/1199261/image,6.88,11.1M €,BRA,20 Feb 2005,174 cm,Left,50.0,55.0,47.0,48.0,52.0,2025-04-06 17:58:23.017466
+/player/jose-martinez/979325,70,José Martínez,https://img.sofascore.com/api/v1/player/979325/image,6.87,2.9M €,VEN,7 Aug 1994,177 cm,Right,48.0,51.0,51.0,56.0,50.0,2025-04-06 17:58:33.930557
+/player/raniele/866392,14,Raniele,https://img.sofascore.com/api/v1/player/866392/image,6.96,3.8M €,BRA,31 Dec 1996,184 cm,Right,46.0,44.0,52.0,64.0,45.0,2025-04-06 17:58:44.477925
+/player/maycon/831778,7,Maycon,https://img.sofascore.com/api/v1/player/831778/image,6.73,2.9M €,BRA,15 Jul 1997,175 cm,Left,,,,,,2025-04-06 17:58:56.054345
+/player/alex-santana/358166,80,Alex Santana,https://img.sofascore.com/api/v1/player/358166/image,6.77,2.1M €,BRA,13 May 1995,182 cm,Right,48.0,53.0,43.0,50.0,45.0,2025-04-06 17:59:05.331204
+/player/charles/845178,35,Charles,https://img.sofascore.com/api/v1/player/845178/image,6.84,1.2M €,BRA,19 Jun 1996,187 cm,Right,48.0,45.0,42.0,55.0,47.0,2025-04-06 17:59:16.657828
+/player/ryan-gustavo/1170779,37,Ryan Gustavo,https://img.sofascore.com/api/v1/player/1170779/image,6.71,1.9M €,BRA,15 Jul 2003,170 cm,Left,45.0,46.0,42.0,52.0,42.0,2025-04-06 17:59:26.936714
+/player/felix-torres/881848,3,Félix Torres,https://img.sofascore.com/api/v1/player/881848/image,6.90,4.3M €,ECU,11 Jan 1997,187 cm,Right,35.0,44.0,59.0,73.0,41.0,2025-04-06 17:59:36.000252
+/player/matheuzinho/931540,2,Matheuzinho,https://img.sofascore.com/api/v1/player/931540/image,7.04,6.2M €,BRA,8 Sept 2000,171 cm,Right,43.0,47.0,54.0,67.0,51.0,2025-04-06 17:59:48.098939
+/player/andre-ramalho/148155,5,André Ramalho,https://img.sofascore.com/api/v1/player/148155/image,7.02,2.4M €,BRA,16 Feb 1992,182 cm,Right,37.0,48.0,66.0,73.0,43.0,2025-04-06 17:59:59.699347
+/player/matheus-bidu/981703,21,Matheus Bidu,https://img.sofascore.com/api/v1/player/981703/image,7.13,3.1M €,BRA,4 May 1999,172 cm,Left,45.0,51.0,52.0,65.0,54.0,2025-04-06 18:00:10.560262
+/player/gustavo-henrique/243181,13,Gustavo Henrique,https://img.sofascore.com/api/v1/player/243181/image,6.98,905K €,BRA,24 Mar 1993,195 cm,Right,37.0,46.0,63.0,75.0,39.0,2025-04-06 18:00:20.649046
+/player/caca/929200,25,Cacá,https://img.sofascore.com/api/v1/player/929200/image,7.00,3.1M €,BRA,25 Apr 1999,185 cm,Right,37.0,43.0,61.0,74.0,40.0,2025-04-06 18:00:32.569582
+/player/diego-palacios/925615,6,Diego Palacios,https://img.sofascore.com/api/v1/player/925615/image,6.70,2.3M €,ECU,12 Jun 1999,169 cm,Left,,,,,,2025-04-06 18:00:43.253173
+/player/hugo/1017827,46,Hugo,https://img.sofascore.com/api/v1/player/1017827/image,6.93,1.4M €,BRA,29 Aug 1997,179 cm,Left,39.0,41.0,49.0,68.0,45.0,2025-04-06 18:00:53.994331
+/player/fabrizio-angileri/311462,26,Fabrizio Angileri,https://img.sofascore.com/api/v1/player/311462/image,7.32,755K €,ARG,15 Mar 1994,185 cm,Left,,,,,,2025-04-06 18:01:04.817940
+/player/leo-mana/1170769,33,Léo Mana,https://img.sofascore.com/api/v1/player/1170769/image,6.65,725K €,BRA,6 Apr 2004,179 cm,Right,36.0,44.0,39.0,62.0,42.0,2025-04-06 18:01:13.193817
+/player/joao-pedro/1411150,47,João Pedro Tchoca,https://img.sofascore.com/api/v1/player/1411150/image,7.00,1.4M €,BRA,31 Dec 2003,192 cm,Right,34.0,42.0,49.0,66.0,37.0,2025-04-06 18:01:22.781848
+/player/renato-santos/1411159,41,Renato Santos,https://img.sofascore.com/api/v1/player/1411159/image,8.1,480K €,BRA,11 Oct 2004,188 cm,Right,,,,,,2025-04-06 18:01:33.966317
+/player/hugo-souza/950454,1,Hugo Souza,https://img.sofascore.com/api/v1/player/950454/image,7.18,8.7M €,BRA,31 Jan 1999,199 cm,Right,,,53.0,,,2025-04-06 18:01:42.068966
+/player/matheus-donelli/1002609,32,Matheus Donelli,https://img.sofascore.com/api/v1/player/1002609/image,6.93,1.9M €,BRA,17 May 2002,187 cm,Right,,,,,,2025-04-06 18:01:53.435598
