@@ -68,16 +68,12 @@ for player_div in html_data.find_all("div", class_="Box gDjnsl"):
             block = player_data.find("div", class_=lambda c: c and skill_class in c.split())
             
             if block:
-                try:
-                    key_span = block.find("span", class_="textStyle_assistive.default")
-                    value_span = block.find("span", class_="textStyle_table.small")
-                    
-                    if key_span and value_span:
-                        key = key_span.text.strip().lower()  # ex: 'att'
-                        value = int(value_span.text.strip())  # já como número inteiro
-                        player_info[key] = value
-                except Exception as e:
-                    print(f"Erro ao extrair skill {skill_class}: {e}")
+                key_span = block.find("span", class_="textStyle_assistive.default")
+                value_span = block.find("span", class_="textStyle_table.small")
+                if key_span and value_span:
+                    key = key_span.text.strip().lower()  # ex: 'att'
+                    value = int(value_span.text.strip())  # já como número inteiro
+                    player_info[key] = value
         
         players_data.append({
             "url": href,
