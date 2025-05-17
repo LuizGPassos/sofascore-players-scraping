@@ -93,6 +93,5 @@ driver.quit()
 
 df = pd.DataFrame(players_data)
 df['date_at_partition'] = pd.to_datetime(df['ingestion_date']).dt.normalize()
-df.to_csv("./data/bronze/players_data.csv", index=False)
-
+df.to_parquet(f"./data/bronze/players_data_{datetime.now().strftime("%Y-%m-%d")}.parquet", index=False)
 print(f"{datetime.now()}: Done Extracting!")
