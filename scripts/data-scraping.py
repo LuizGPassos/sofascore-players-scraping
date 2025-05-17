@@ -18,7 +18,6 @@ options.add_argument('--disable-gpu')
 options.add_argument('--window-size=1920,1080')
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-
 print(f"{datetime.now()}: Started Web Scraping...")
 
 driver.get(BASE_URL + CLUB_PAGE)
@@ -42,7 +41,7 @@ for player_div in html_data.find_all("div", class_="Box gDjnsl"):
         driver.get(full_url)
         time.sleep(2)
         player_data = BeautifulSoup(driver.page_source, 'html.parser')
-        rating = player_data.select_one("div.Box.klGMtt.sc-eldPxv").text.strip()
+        rating = player_data.select_one("div.Box.klGMtt.sc-eDPEul").text.strip()
         price = player_data.find("div", class_="Text imGAlA").text.strip()
         
         player_info = {}
@@ -93,6 +92,7 @@ for player_div in html_data.find_all("div", class_="Box gDjnsl"):
 driver.quit()
 
 df = pd.DataFrame(players_data)
+df['date_at_partition'] = pd.to_datetime(df['ingestion_date']).dt.normalize()
 df.to_csv("./data/bronze/players_data.csv", index=False)
 
 print(f"{datetime.now()}: Done Extracting!")
